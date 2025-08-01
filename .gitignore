@@ -1,1 +1,8 @@
 PolyMNIST
+# Ignorar archivos pesados de imagen
+/train
+/test
+
+# Ignorar archivos temporales
+__pycache__/
+*.pyc
